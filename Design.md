@@ -8,6 +8,7 @@ comment:  Dies ist das OER Projekt
 
 # Einleitung, allgemeine Informationen
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500" height="500" />
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 Gifs können eingefügt werden!
 # Gestaltungsprinzipien, didaktisches Design, Gestaltungspsychologie
 
