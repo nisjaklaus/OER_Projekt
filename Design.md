@@ -9,6 +9,11 @@ output:
     css: style.css
 -->
 
+<style type="text/css">
+  body{
+  font-family: Courier New;
+}
+</style>
 
 # Einleitung, allgemeine Informationen
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500" height="500" />
@@ -36,3 +41,4 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 ## Folien
 
 # Software und Tutorials
+
