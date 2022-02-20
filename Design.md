@@ -14,6 +14,7 @@ Gifs können eingefügt werden!
 
 # Darstellungselemente
 ## Text
+![Bild mit Plus-Zeichen quadratisch](https://github.com/nisjaklaus/OER_Projekt/blob/pictures/DesignTheorieZeichen_Quer.jpg "Querformat Crosses")
 ### Textarten
 ### Struktur und Gestaltungselemente
 ### Typografie
