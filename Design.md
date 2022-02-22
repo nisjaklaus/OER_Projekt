@@ -9,11 +9,6 @@ output:
     css: style.css
 -->
 
-<style type="text/css">
-  body{
-  font-family: Courier New;
-}
-</style>
 
 # Einleitung, allgemeine Informationen
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500" height="500" />
@@ -30,7 +25,11 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 ### Struktur und Gestaltungselemente
 ![Gestaltung Schriftzug](https://github.com/nisjaklaus/OER_Projekt/blob/main/GESTALTUNG_00_02.jpg?raw=true "GESTALTUNG")
 ### Typografie
+
+![Test01](https://github.com/nisjaklaus/OER_Projekt/blob/main/test_01.png?raw=true)
 ### Lesbarkeit
+
+![Test02](https://github.com/nisjaklaus/OER_Projekt/blob/main/test_02.png?raw=true)
 ## Bilder
 ### Fotografien
 ### Illustrationen
@@ -42,4 +41,3 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 ## Folien
 
 # Software und Tutorials
-
