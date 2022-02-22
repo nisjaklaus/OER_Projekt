@@ -22,6 +22,7 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 
 <img src="https://github.com/nisjaklaus/OER_Projekt/blob/pictures/DesignTheorieZeichen_Quad.jpg?raw=true" width= "800" height="800" />
 ### Textarten
+<img src="https://github.com/nisjaklaus/OER_Projekt/blob/pictures/DesignTheorieZeichen_Quad.jpg?raw=true" width= "500" height="500" />
 ![Bild mit Plus-Zeichen quer](https://github.com/nisjaklaus/OER_Projekt/blob/pictures/DesignTheorieZeichen_Quer.jpg?raw=true "Querformat Crosses")
 ### Struktur und Gestaltungselemente
 ![Gestaltung Schriftzug](https://github.com/nisjaklaus/OER_Projekt/blob/main/GESTALTUNG_00_02.jpg?raw=true "GESTALTUNG")
