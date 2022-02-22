@@ -20,6 +20,7 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 # Darstellungselemente
 ## Text
 ![Bild mit Plus-Zeichen quadratisch](https://github.com/nisjaklaus/OER_Projekt/blob/pictures/DesignTheorieZeichen_Quad.jpg?raw=true "Quardrat Crosses")
+<img src="https://github.com/nisjaklaus/OER_Projekt/blob/pictures/DesignTheorieZeichen_Quad.jpg?raw=true" width= "800" height="800" />
 ### Textarten
 ![Bild mit Plus-Zeichen quer](https://github.com/nisjaklaus/OER_Projekt/blob/pictures/DesignTheorieZeichen_Quer.jpg?raw=true "Querformat Crosses")
 ### Struktur und Gestaltungselemente
