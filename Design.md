@@ -26,10 +26,12 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 ![Gestaltung Schriftzug](https://github.com/nisjaklaus/OER_Projekt/blob/main/GESTALTUNG_00_02.jpg?raw=true "GESTALTUNG")
 ### Typografie
 
-![Test01](https://github.com/nisjaklaus/OER_Projekt/blob/main/test_01.png?raw=true)
+
+<img src="https://github.com/nisjaklaus/OER_Projekt/blob/main/test_01.png?raw=true" height="900" />
 ### Lesbarkeit
 
-![Test02](https://github.com/nisjaklaus/OER_Projekt/blob/main/test_02.png?raw=true)
+
+<img src="https://github.com/nisjaklaus/OER_Projekt/blob/main/test_01.png?raw=true"  height="900" />
 ## Bilder
 ### Fotografien
 ### Illustrationen
