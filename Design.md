@@ -27,11 +27,11 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 ### Typografie
 
 
-<img src="https://github.com/nisjaklaus/OER_Projekt/blob/main/test_01.png?raw=true" height="900" />
+<img src="https://github.com/nisjaklaus/OER_Projekt/blob/main/test_01.png?raw=true"  height="900" />
 ### Lesbarkeit
 
 
-<img src="https://github.com/nisjaklaus/OER_Projekt/blob/main/test_01.png?raw=true"  height="900" />
+<img src="https://github.com/nisjaklaus/OER_Projekt/blob/main/test_02.png?raw=true" height="900" />
 ## Bilder
 ### Fotografien
 ### Illustrationen
