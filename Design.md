@@ -39,6 +39,7 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 ## Skripte
 ![Grau-87D1D1](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_G87D1D1.jpg?raw=true "Grau-87D1D1")
 ## Arbeitsblätter
+![009999-Weiß](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_009999W.jpg?raw=true "009999-Weiß")
 ## Folien
-
+![009999-Weiß](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_009999W_L.jpg?raw=true "009999-Weiß")
 # Software und Tutorials
