@@ -43,3 +43,4 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 ## Folien
 ![009999-Weiß](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_009999W_L.jpg?raw=true "009999-Weiß")
 # Software und Tutorials
+![009999-Weiß](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_009999W_L_Small.jpg?raw=true "009999-Weiß")
