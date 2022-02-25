@@ -13,8 +13,67 @@ comment:  Dies ist das OER Projekt
 Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --> Welt
 
 # Gestaltungsprinzipien, didaktisches Design, Gestaltungspsychologie
-![Gestaltung Schriftzug](https://github.com/nisjaklaus/OER_Projekt/blob/main/GESTALTUNG_00_02.jpg?raw=true "GESTALTUNG")
+**Gestaltungsprinzipien und didaktisches Design**
+
+Lehrmaterialien, Skripte und sichtbare Informationen machen einen stummen Dialog sichtbar. Eine sparsame Typografie, eine reduzierte Grafik und eine funktionsbestimmte Form unterstützen die Vermittlung von Klarheit, Ordnung und Gewissheit wissenschaftlicher Informationen. Didaktisches Design ist nach Ballstaedt (1997, S.12) die „planmäßige und lernwirksame Entwicklung von Lernumgebungen (…) auf wissenschaftlicher Grundlage“ (1997, S.12).
+
+Mit Erkenntnissen aus der Informationsverarbeitung lassen sich Empfehlungen für ein didaktisches Design ableiten. Komplexe Informationen werden auf simple Regeln und Strukturen reduziert um so die Informationsdichte zu begrenzen und zu vereinfachen. Dabei werden Informationen gegliedert und angeordnet, um Zusammenhänge besser zu verdeutlichen. Design steht nicht für Dekoration, sondern es ist die versierte und systematische Anwendung von Gestaltungselementen und Prinzipien, die an eine jeweilige Situation und einen entsprechenden Medieneinsatz situativ angepasst werden muss.
+
+Diese Prinzipien werden unabhängig von einem inhaltlichen Thema in der Gestaltung von Lehrmitteln zur Anwendung gebracht werden. Beim Einsatz dieser Gestaltungsprinzipien wird eine kognitive Last reduziert und der Lernprozess gefördert. Zunächst werden die allgemeinen grafischen Variablen wie Lage, Größe, Helligkeit, Sättigung, Farbton, Muster, Richtung und Form vorgestellt. Danach werden die Gestaltgesetze besprochen.
+
+**Gestaltgesetze**
+
+Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleitet werden. Diese Empfehlungen und Regeln für die visuelle Darstellung von Informationen wie Daten, Zahlen, Texte und Bildern fördern eine raschere und zugänglichere Orientierung, da sie bestimmte kognitive Mechanismen unterstützen. Die Kenntnis und Anwendung dieser Regeln ist bei der Erstellung von Lehr- und Lernmaterialien dienlich.
+
+**1 Gesetz der Nähe**
+
+![Abbildung 01: Gesetz der Nähe](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Naehe.jpg?raw=true "Abb. 01: Gesetz der Nähe")
+
+Gruppierte Elemente, die näher beieinander stehen, werden zusammengehörend interpretiert. Horizontal oder vertikal angeordnete Objekte werden derselben Hierarchiestufe oder Kategorie zugehörig wahrgenommen. Voneinander entfernte Elemente werden als Einzelobjekte erfasst.
+
+**2 Gesetz der Ähnlichkeit**
+
+- Sich ähnelnde Elemente mit gemeinsamen Merkmalen wirken zusammengehöriger gegenüber inhomogenen Anordnungen. Gleichartige textliche Informationen werden zum Beispiel durch den gleichen Schriftschnitt gekennzeichnet.
+
+
+**3 Gesetz der Geschlossenheit**
+
+![Abbildung 03: Gesetz der Geschlossenheit](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Geschlossenheit.jpg?raw=true "Abb. 03: Gesetz der Geschlossenheit")
+
+Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen werden, wirken als Einheit oder zusammenhängende Form. Dies kann zum Einsatz kommen, wenn das Gesetz der Nähe oder der Ähnlichkeit keine klare Unterscheidung der Elemente und visuellen Informationen erlauben
+
+**4 Gesetz der verbundenen Elemente**
+
+- Verbundene Elemente werden als ein Objekt verstanden
+
+**5 Gesetz der Prägnanz / Ausnahmegesetz**
+
+- Elemente, die sich durch eine bestimmte Eigenschaft oder Darstellung von anderen unterscheiden, werden schneller wahrgenommen
+- Schlichte geometrische Formen werden gegenüber detaillierten komplexen Anordnungen bevorzugt
+- Besondere Informationen können durch grafische Variablen wie Form und Farbton von gleichartigen Elementen in der Umgebung hervorgehoben werden.
+
+**6 Gesetz der durchgehenden Linie / Kontinuität**
+
+- Linien werden so wahrgenommen, als folgten sie dem bequemsten Weg
+- Sich kreuzende Linien werden eher als gerade, durchgehende Striche erkannt anstatt als gebogene oder gefaltete Linien
+- Lückenhafte Darstellungen werden durch erdachte Linien oder Kurven ergänzt.
+
+
+**7 Gesetz der Symmetrie**
+
+- symmetrische Anordnungen werden schneller erkannt als unstrukturierte Elemente
+- spiegelbildliche Formen und gleichartige Objekte werden in der Wahrnehmung präferiert
+
+**8 Gesetz von Figur und Grund**
+
+- Ein Bereich wird immer in einen indirekten Hintergrund und einen Vordergrund mit konkreten Elementen und Figuren eingeteilt
+
+**9 Gesetz der Erfahrung**
+
+- Gängige Formen sind auch bei starker Abänderung oder partieller Darstellung noch erkennbar
+
 # Darstellungselemente
+![Gestaltung Schriftzug](https://github.com/nisjaklaus/OER_Projekt/blob/main/GESTALTUNG_00_02.jpg?raw=true "GESTALTUNG")
 ![Quadrat DesignTheorieNet](https://github.com/nisjaklaus/OER_Projekt/blob/main/test_02.png?raw=true "Quadrat DesignTheorieNet")
 ## Text
 ![Weiß-Schwarz](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_WS.jpg?raw=true "Weiß-Schwarz")
@@ -39,8 +98,6 @@ Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --
 ## Skripte
 ![Grau-87D1D1](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_G87D1D1.jpg?raw=true "Grau-87D1D1")
 ## Arbeitsblätter
-![009999-Weiß](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_009999W.jpg?raw=true "009999-Weiß")
 ## Folien
-![009999-Weiß](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_009999W_L.jpg?raw=true "009999-Weiß")
+
 # Software und Tutorials
-![009999-Weiß](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_009999W.jpg?raw=true "009999-Weiß")
