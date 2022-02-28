@@ -21,30 +21,44 @@ Mit Erkenntnissen aus der Informationsverarbeitung lassen sich Empfehlungen für
 
 Diese Prinzipien werden unabhängig von einem inhaltlichen Thema in der Gestaltung von Lehrmitteln zur Anwendung gebracht werden. Beim Einsatz dieser Gestaltungsprinzipien wird eine kognitive Last reduziert und der Lernprozess gefördert. Zunächst werden die allgemeinen grafischen Variablen wie Lage, Größe, Helligkeit, Sättigung, Farbton, Muster, Richtung und Form vorgestellt. Danach werden die Gestaltgesetze besprochen.
 
-**Gestaltgesetze**
 
+**Gestaltgesetze**
+===================
 Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleitet werden. Diese Empfehlungen und Regeln für die visuelle Darstellung von Informationen wie Daten, Zahlen, Texte und Bildern fördern eine raschere und zugänglichere Orientierung, da sie bestimmte kognitive Mechanismen unterstützen. Die Kenntnis und Anwendung dieser Regeln ist bei der Erstellung von Lehr- und Lernmaterialien dienlich.
+
 
 **1 Gesetz der Nähe**
 
-![Abbildung 01: Gesetz der Nähe](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Naehe.jpg?raw=true "Abb. 01: Gesetz der Nähe")
-
 Gruppierte Elemente, die näher beieinander stehen, werden zusammengehörend interpretiert. Horizontal oder vertikal angeordnete Objekte werden derselben Hierarchiestufe oder Kategorie zugehörig wahrgenommen. Voneinander entfernte Elemente werden als Einzelobjekte erfasst.
+
+![Abbildung 01: Gesetz der Nähe](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Naehe_01.jpg?raw=true "Abb. 01: Gesetz der Nähe")
+
+<br>
+<br>
 
 **2 Gesetz der Ähnlichkeit**
 
 - Sich ähnelnde Elemente mit gemeinsamen Merkmalen wirken zusammengehöriger gegenüber inhomogenen Anordnungen. Gleichartige textliche Informationen werden zum Beispiel durch den gleichen Schriftschnitt gekennzeichnet.
 
+<br>
+<br>
 
 **3 Gesetz der Geschlossenheit**
 
-![Abbildung 03: Gesetz der Geschlossenheit](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Geschlossenheit.jpg?raw=true "Abb. 03: Gesetz der Geschlossenheit")
-
 Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen werden, wirken als Einheit oder zusammenhängende Form. Dies kann zum Einsatz kommen, wenn das Gesetz der Nähe oder der Ähnlichkeit keine klare Unterscheidung der Elemente und visuellen Informationen erlauben
+
+![Abbildung 03: Gesetz der Geschlossenheit](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Geschlossenheit_05.jpg?raw=true "Abb. 03: Gesetz der Geschlossenheit")
+
+<br>
+<br>
+
 
 **4 Gesetz der verbundenen Elemente**
 
 - Verbundene Elemente werden als ein Objekt verstanden
+
+<br>
+<br>
 
 **5 Gesetz der Prägnanz / Ausnahmegesetz**
 
@@ -52,21 +66,32 @@ Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen
 - Schlichte geometrische Formen werden gegenüber detaillierten komplexen Anordnungen bevorzugt
 - Besondere Informationen können durch grafische Variablen wie Form und Farbton von gleichartigen Elementen in der Umgebung hervorgehoben werden.
 
+<br>
+<br>
+
 **6 Gesetz der durchgehenden Linie / Kontinuität**
 
 - Linien werden so wahrgenommen, als folgten sie dem bequemsten Weg
 - Sich kreuzende Linien werden eher als gerade, durchgehende Striche erkannt anstatt als gebogene oder gefaltete Linien
 - Lückenhafte Darstellungen werden durch erdachte Linien oder Kurven ergänzt.
 
+<br>
+<br>
 
 **7 Gesetz der Symmetrie**
 
 - symmetrische Anordnungen werden schneller erkannt als unstrukturierte Elemente
 - spiegelbildliche Formen und gleichartige Objekte werden in der Wahrnehmung präferiert
 
+<br>
+<br>
+
 **8 Gesetz von Figur und Grund**
 
 - Ein Bereich wird immer in einen indirekten Hintergrund und einen Vordergrund mit konkreten Elementen und Figuren eingeteilt
+
+<br>
+<br>
 
 **9 Gesetz der Erfahrung**
 
