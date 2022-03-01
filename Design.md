@@ -12,7 +12,7 @@ comment:  Dies ist das OER Projekt
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --> Welt
 
-# Gestaltungsprinzipien, didaktisches Design, Gestaltungspsychologie
+# Gestaltungsprinzipien und didaktisches Design
 **Gestaltungsprinzipien und didaktisches Design**
 
 Lehrmaterialien, Skripte und sichtbare Informationen machen einen stummen Dialog sichtbar. Eine sparsame Typografie, eine reduzierte Grafik und eine funktionsbestimmte Form unterstützen die Vermittlung von Klarheit, Ordnung und Gewissheit wissenschaftlicher Informationen. Didaktisches Design ist nach Ballstaedt (1997, S.12) die „planmäßige und lernwirksame Entwicklung von Lernumgebungen (…) auf wissenschaftlicher Grundlage“ (1997, S.12).
@@ -26,24 +26,26 @@ Diese Prinzipien werden unabhängig von einem inhaltlichen Thema in der Gestaltu
 ===================
 Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleitet werden. Diese Empfehlungen und Regeln für die visuelle Darstellung von Informationen wie Daten, Zahlen, Texte und Bildern fördern eine raschere und zugänglichere Orientierung, da sie bestimmte kognitive Mechanismen unterstützen. Die Kenntnis und Anwendung dieser Regeln ist bei der Erstellung von Lehr- und Lernmaterialien dienlich.
 
+<br>
+<br>
 
-**1 Gesetz der Nähe**
+**Gesetz der Nähe**
 
-Gruppierte Elemente, die näher beieinander stehen, werden zusammengehörend interpretiert. Horizontal oder vertikal angeordnete Objekte werden derselben Hierarchiestufe oder Kategorie zugehörig wahrgenommen. Voneinander entfernte Elemente werden als Einzelobjekte erfasst.
+- Gruppierte Elemente, die näher beieinander stehen, werden zusammengehörend interpretiert. Horizontal oder vertikal angeordnete Objekte werden derselben Hierarchiestufe oder Kategorie zugehörig wahrgenommen. Voneinander entfernte Elemente werden als Einzelobjekte erfasst.
 
 ![Abbildung 01: Gesetz der Nähe](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Naehe_01.jpg?raw=true "Abb. 01: Gesetz der Nähe")
 
 <br>
 <br>
 
-**2 Gesetz der Ähnlichkeit**
+**Gesetz der Ähnlichkeit**
 
 - Sich ähnelnde Elemente mit gemeinsamen Merkmalen wirken zusammengehöriger gegenüber inhomogenen Anordnungen. Gleichartige textliche Informationen werden zum Beispiel durch den gleichen Schriftschnitt gekennzeichnet.
 
 <br>
 <br>
 
-**3 Gesetz der Geschlossenheit**
+**Gesetz der Geschlossenheit**
 
 Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen werden, wirken als Einheit oder zusammenhängende Form. Dies kann zum Einsatz kommen, wenn das Gesetz der Nähe oder der Ähnlichkeit keine klare Unterscheidung der Elemente und visuellen Informationen erlauben
 
@@ -53,23 +55,27 @@ Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen
 <br>
 
 
-**4 Gesetz der verbundenen Elemente**
+**Gesetz der verbundenen Elemente**
 
 - Verbundene Elemente werden als ein Objekt verstanden
 
+![Abbildung 04: Gesetz der verbundenen Elemente](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Verbundenheit.jpg?raw=true "Abb. 05: Gesetz der verbundenen Elemente")
+
 <br>
 <br>
 
-**5 Gesetz der Prägnanz / Ausnahmegesetz**
+**Gesetz der Prägnanz / Ausnahmegesetz**
 
 - Elemente, die sich durch eine bestimmte Eigenschaft oder Darstellung von anderen unterscheiden, werden schneller wahrgenommen
 - Schlichte geometrische Formen werden gegenüber detaillierten komplexen Anordnungen bevorzugt
 - Besondere Informationen können durch grafische Variablen wie Form und Farbton von gleichartigen Elementen in der Umgebung hervorgehoben werden.
 
+![Abbildung 05: Gesetz der Prägnanz](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Praegnanz.jpg?raw=true "Abb. 05: Gesetz der Prägnanz")
+
 <br>
 <br>
 
-**6 Gesetz der durchgehenden Linie / Kontinuität**
+**Gesetz der durchgehenden Linie / Kontinuität**
 
 - Linien werden so wahrgenommen, als folgten sie dem bequemsten Weg
 - Sich kreuzende Linien werden eher als gerade, durchgehende Striche erkannt anstatt als gebogene oder gefaltete Linien
@@ -78,7 +84,7 @@ Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen
 <br>
 <br>
 
-**7 Gesetz der Symmetrie**
+**Gesetz der Symmetrie**
 
 - symmetrische Anordnungen werden schneller erkannt als unstrukturierte Elemente
 - spiegelbildliche Formen und gleichartige Objekte werden in der Wahrnehmung präferiert
@@ -86,14 +92,14 @@ Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen
 <br>
 <br>
 
-**8 Gesetz von Figur und Grund**
+**Gesetz von Figur und Grund**
 
 - Ein Bereich wird immer in einen indirekten Hintergrund und einen Vordergrund mit konkreten Elementen und Figuren eingeteilt
 
 <br>
 <br>
 
-**9 Gesetz der Erfahrung**
+**Gesetz der Erfahrung**
 
 - Gängige Formen sind auch bei starker Abänderung oder partieller Darstellung noch erkennbar
 
