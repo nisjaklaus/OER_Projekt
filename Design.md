@@ -47,7 +47,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 
 **Gesetz der Geschlossenheit**
 
-Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen werden, wirken als Einheit oder zusammenhängende Form. Dies kann zum Einsatz kommen, wenn das Gesetz der Nähe oder der Ähnlichkeit keine klare Unterscheidung der Elemente und visuellen Informationen erlauben
+- Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen werden, wirken als Einheit oder zusammenhängende Form. Dies kann zum Einsatz kommen, wenn das Gesetz der Nähe oder der Ähnlichkeit keine klare Unterscheidung der Elemente und visuellen Informationen erlauben
 
 ![Abbildung 03: Gesetz der Geschlossenheit](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Geschlossenheit_05.jpg?raw=true "Abb. 03: Gesetz der Geschlossenheit")
 
