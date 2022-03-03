@@ -59,7 +59,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 
 - Verbundene Elemente werden als ein Objekt verstanden
 
-![Abbildung 04: Gesetz der verbundenen Elemente](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Verbundenheit.jpg?raw=true "Abb. 05: Gesetz der verbundenen Elemente")
+![Abbildung 04: Gesetz der verbundenen Elemente](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Verbundenheit_01.jpg?raw=true "Abb. 05: Gesetz der verbundenen Elemente")
 
 <br>
 <br>
@@ -70,7 +70,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Schlichte geometrische Formen werden gegenüber detaillierten komplexen Anordnungen bevorzugt
 - Besondere Informationen können durch grafische Variablen wie Form und Farbton von gleichartigen Elementen in der Umgebung hervorgehoben werden.
 
-![Abbildung 05: Gesetz der Prägnanz](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Praegnanz.jpg?raw=true "Abb. 05: Gesetz der Prägnanz")
+![Abbildung 05: Gesetz der Prägnanz](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Praegnanz_01.jpg?raw=true  "Abb. 05: Gesetz der Prägnanz")
 
 <br>
 <br>
