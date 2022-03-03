@@ -42,6 +42,8 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 
 - Sich ähnelnde Elemente mit gemeinsamen Merkmalen wirken zusammengehöriger gegenüber inhomogenen Anordnungen. Gleichartige textliche Informationen werden zum Beispiel durch den gleichen Schriftschnitt gekennzeichnet.
 
+![Abbildung 02: Gesetz der Ähnlichkeit](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Aehnlichkeit.jpg?raw=true "Abb. 02: Gesetz der Ähnlichkeit")
+
 <br>
 <br>
 
@@ -81,6 +83,8 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Sich kreuzende Linien werden eher als gerade, durchgehende Striche erkannt anstatt als gebogene oder gefaltete Linien
 - Lückenhafte Darstellungen werden durch erdachte Linien oder Kurven ergänzt.
 
+![Abbildung 06: Gesetz der durchgehenden Linie / Kontinuität](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Kontinuitaet.jpg?raw=true "Abb. 06: Gesetz der durchgehenden Linie / Kontinuität")
+
 <br>
 <br>
 
@@ -88,6 +92,8 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 
 - symmetrische Anordnungen werden schneller erkannt als unstrukturierte Elemente
 - spiegelbildliche Formen und gleichartige Objekte werden in der Wahrnehmung präferiert
+
+![Abbildung 07: Gesetz der Symmetrie](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Symmetrie.jpg?raw=true "Abb. 07: Gesetz der Symmetrie")
 
 <br>
 <br>
