@@ -102,12 +102,16 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 
 - Ein Bereich wird immer in einen indirekten Hintergrund und einen Vordergrund mit konkreten Elementen und Figuren eingeteilt
 
+![Abbildung 08: Gesetz von Figur und Grund](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_FigurUndGrund.jpg?raw=true "Abb. 08: Gesetz von Figur und Grund")
+
 <br>
 <br>
 
 **Gesetz der Erfahrung**
 
 - Gängige Formen sind auch bei starker Abänderung oder partieller Darstellung noch erkennbar
+
+![Abbildung 09: Gesetz der Erfahrung](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Erfahrung.jpg?raw=true "Abb. 09: Gesetz der Erfahrung")
 
 # Darstellungselemente
 ![Gestaltung Schriftzug](https://github.com/nisjaklaus/OER_Projekt/blob/main/GESTALTUNG_00_02.jpg?raw=true "GESTALTUNG")
