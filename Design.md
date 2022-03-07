@@ -114,8 +114,66 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 ![Abbildung 09: Gesetz der Erfahrung](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Erfahrung.jpg?raw=true "Abb. 09: Gesetz der Erfahrung")
 
 # Darstellungselemente
-![Gestaltung Schriftzug](https://github.com/nisjaklaus/OER_Projekt/blob/main/GESTALTUNG_00_02.jpg?raw=true "GESTALTUNG")
-![Quadrat DesignTheorieNet](https://github.com/nisjaklaus/OER_Projekt/blob/main/test_02.png?raw=true "Quadrat DesignTheorieNet")
+Grafische Variablen
+===================
+Grafische Variablen sind zum Beispiel Punkte, Linien, Flächen und typografische Zeichen, die in unterschiedlichen Kompositionen angeordnet werden können. In der Anordnung der grafischen Variablen können bestimmte Zusammenhänge und Hierarchien visualisiert werden und so entsprechende Bedeutungen und Eigenschaften vermittelt werden. Dabei werden Zusammengehörigkeit, Rangfolgen und Wichtigkeiten dargestellt.
+
+<br>
+<br>
+
+**Position**
+
+- Elemente, die an einer waagerechten oder senkrechten Linie ausgerichtet sind, werden als gleichwertig wahrgenommen.
+- Objekte, die entlang einer optischen Linie arrangiert sind, werden als  zusammengehörig interpretiert
+
+![Abbildung 01: Position]( "Abb. 01: Position")
+
+<br>
+<br>
+
+**Farbton und Muster**
+
+- Deckungsgleiche Elemente in Muster oder Farbe werden als zusammengehörig interpretiert, während unterschiedlich gemusterte oder farbige Objekte nicht zusammengehörig erscheinen.
+
+![Abbildung 02: Farbton und Muster]( "Abb. 02: Farbton und Muster")
+
+<br>
+<br>
+
+**Größe**
+
+- Elemente, die sich in der Größe ähneln, werden als gleichbedeutend wahrgenommen während Objekte in einer größeren Ausgestaltung als übergeordnet    interpretiert werden. Kleinere Objekte werden dagegen als nachgeordnet, d.h. weniger wichtig empfunden.
+
+![Abbildung 03: Größe]( "Abb. 03: Größe")
+
+<br>
+<br>
+
+**Richtung**
+
+- Objekte, die entlang einer optischen Linie arrangiert sind, werden als  zusammengehörig interpretiert. Richtungsgleiche Elemente werden als zusammengehörend interpretiert, während unterschiedlich ausgerichtet Elemente nicht zusammengehörig erscheinen.
+
+![Abbildung 04: Richtung]( "Abb. 04: Richtung")
+
+<br>
+<br>
+
+**Helligkeit und Sättigung**
+
+- Elemente in der gleichen Sättigung oder Transparenz werden als gleichbedeutend empfunden.
+- Dunklere oder gesättigtere Objekte wirken übergeordnet eingeschätzt, während hellere oder weniger gesättigte Objekte untergeordnet erscheinen.
+
+![Abbildung 05: Helligkeit und Sättigung]( "Abb. 05: Helligkeit und Sättigung")
+
+<br>
+<br>
+
+**Form**
+
+- Gleichförmige Elemente werden als zusammen-gehörend interpretiert, während unterschiedlich ausgeformte Objekte nicht einheitlich erscheinen.
+
+![Abbildung 06: Form]( "Abb. 06: Form")
+
 ## Text
 ![Weiß-Schwarz](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_WS.jpg?raw=true "Weiß-Schwarz")
 ### Textarten
