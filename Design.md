@@ -126,7 +126,7 @@ Grafische Variablen sind zum Beispiel Punkte, Linien, Flächen und typografische
 - Elemente, die an einer waagerechten oder senkrechten Linie ausgerichtet sind, werden als gleichwertig wahrgenommen.
 - Objekte, die entlang einer optischen Linie arrangiert sind, werden als  zusammengehörig interpretiert
 
-![Abbildung 01: Position]( "Abb. 01: Position")
+![Abbildung 01: Position](https://github.com/nisjaklaus/OER_Projekt/blob/main/GraphischeVariablen_Position.jpg?raw=true "Abb. 01: Position")
 
 <br>
 <br>
@@ -135,7 +135,7 @@ Grafische Variablen sind zum Beispiel Punkte, Linien, Flächen und typografische
 
 - Deckungsgleiche Elemente in Muster oder Farbe werden als zusammengehörig interpretiert, während unterschiedlich gemusterte oder farbige Objekte nicht zusammengehörig erscheinen.
 
-![Abbildung 02: Farbton und Muster]( "Abb. 02: Farbton und Muster")
+![Abbildung 02: Farbton und Muster](https://github.com/nisjaklaus/OER_Projekt/blob/main/GraphischeVariablen_FarbtonUndMuster.jpg?raw=true "Abb. 02: Farbton und Muster")
 
 <br>
 <br>
@@ -144,7 +144,7 @@ Grafische Variablen sind zum Beispiel Punkte, Linien, Flächen und typografische
 
 - Elemente, die sich in der Größe ähneln, werden als gleichbedeutend wahrgenommen während Objekte in einer größeren Ausgestaltung als übergeordnet    interpretiert werden. Kleinere Objekte werden dagegen als nachgeordnet, d.h. weniger wichtig empfunden.
 
-![Abbildung 03: Größe]( "Abb. 03: Größe")
+![Abbildung 03: Größe](https://github.com/nisjaklaus/OER_Projekt/blob/main/GraphischeVariablen_Groesse.jpg?raw=true "Abb. 03: Größe")
 
 <br>
 <br>
@@ -153,7 +153,7 @@ Grafische Variablen sind zum Beispiel Punkte, Linien, Flächen und typografische
 
 - Objekte, die entlang einer optischen Linie arrangiert sind, werden als  zusammengehörig interpretiert. Richtungsgleiche Elemente werden als zusammengehörend interpretiert, während unterschiedlich ausgerichtet Elemente nicht zusammengehörig erscheinen.
 
-![Abbildung 04: Richtung]( "Abb. 04: Richtung")
+![Abbildung 04: Richtung](https://github.com/nisjaklaus/OER_Projekt/blob/main/GraphischeVariablen_Richtung.jpg?raw=true "Abb. 04: Richtung")
 
 <br>
 <br>
@@ -163,7 +163,7 @@ Grafische Variablen sind zum Beispiel Punkte, Linien, Flächen und typografische
 - Elemente in der gleichen Sättigung oder Transparenz werden als gleichbedeutend empfunden.
 - Dunklere oder gesättigtere Objekte wirken übergeordnet eingeschätzt, während hellere oder weniger gesättigte Objekte untergeordnet erscheinen.
 
-![Abbildung 05: Helligkeit und Sättigung]( "Abb. 05: Helligkeit und Sättigung")
+![Abbildung 05: Helligkeit und Sättigung](https://github.com/nisjaklaus/OER_Projekt/blob/main/GraphischeVariablen_HelligkeitUndSaettigung.jpg?raw=true "Abb. 05: Helligkeit und Sättigung")
 
 <br>
 <br>
@@ -172,7 +172,7 @@ Grafische Variablen sind zum Beispiel Punkte, Linien, Flächen und typografische
 
 - Gleichförmige Elemente werden als zusammen-gehörend interpretiert, während unterschiedlich ausgeformte Objekte nicht einheitlich erscheinen.
 
-![Abbildung 06: Form]( "Abb. 06: Form")
+![Abbildung 06: Form](https://github.com/nisjaklaus/OER_Projekt/blob/main/GraphischeVariablen_Form.jpg?raw=true "Abb. 06: Form")
 
 ## Text
 ![Weiß-Schwarz](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_WS.jpg?raw=true "Weiß-Schwarz")
