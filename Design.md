@@ -42,7 +42,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 
 - Sich ähnelnde Elemente mit gemeinsamen Merkmalen wirken zusammengehöriger gegenüber inhomogenen Anordnungen. Gleichartige textliche Informationen werden zum Beispiel durch den gleichen Schriftschnitt gekennzeichnet.
 
-![Abbildung 02: Gesetz der Ähnlichkeit](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Aehnlichkeit.jpg?raw=true "Abb. 02: Gesetz der Ähnlichkeit")
+![Abbildung 02: Gesetz der Ähnlichkeit](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Aehnlichkeit_01.jpg?raw=true "Abb. 02: Gesetz der Ähnlichkeit")
 
 <br>
 <br>
@@ -51,7 +51,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 
 - Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen werden, wirken als Einheit oder zusammenhängende Form. Dies kann zum Einsatz kommen, wenn das Gesetz der Nähe oder der Ähnlichkeit keine klare Unterscheidung der Elemente und visuellen Informationen erlauben
 
-![Abbildung 03: Gesetz der Geschlossenheit](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Geschlossenheit_05.jpg?raw=true "Abb. 03: Gesetz der Geschlossenheit")
+![Abbildung 03: Gesetz der Geschlossenheit](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Geschlossenheit_06.jpg?raw=true "Abb. 03: Gesetz der Geschlossenheit")
 
 <br>
 <br>
@@ -72,7 +72,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Schlichte geometrische Formen werden gegenüber detaillierten komplexen Anordnungen bevorzugt
 - Besondere Informationen können durch grafische Variablen wie Form und Farbton von gleichartigen Elementen in der Umgebung hervorgehoben werden.
 
-![Abbildung 05: Gesetz der Prägnanz](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Praegnanz_01.jpg?raw=true  "Abb. 05: Gesetz der Prägnanz")
+![Abbildung 05: Gesetz der Prägnanz](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Praegnanz_02.jpg?raw=true  "Abb. 05: Gesetz der Prägnanz")
 
 <br>
 <br>
@@ -93,7 +93,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - symmetrische Anordnungen werden schneller erkannt als unstrukturierte Elemente
 - spiegelbildliche Formen und gleichartige Objekte werden in der Wahrnehmung präferiert
 
-![Abbildung 07: Gesetz der Symmetrie](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Symmetrie.jpg?raw=true "Abb. 07: Gesetz der Symmetrie")
+![Abbildung 07: Gesetz der Symmetrie](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Symmetrie_01.jpg?raw=true "Abb. 07: Gesetz der Symmetrie")
 
 <br>
 <br>
@@ -111,7 +111,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 
 - Gängige Formen sind auch bei starker Abänderung oder partieller Darstellung noch erkennbar
 
-![Abbildung 09: Gesetz der Erfahrung](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Erfahrung.jpg?raw=true "Abb. 09: Gesetz der Erfahrung")
+![Abbildung 09: Gesetz der Erfahrung](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Erfahrung.jpg?raw=true "Abb. 09: Gesetz der Erfahrung; Haus, Dreieck, Quardrat")
 
 # Darstellungselemente
 Grafische Variablen
