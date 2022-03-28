@@ -276,7 +276,7 @@ Das künstliche Verzerren, Verschmälern und Verdicken von Schriften durch Textv
 
 Es wird empfohlen, nicht mehr wie drei verschiedene Schriften einzusetzen und stattdessen für strukturelle oder inhaltlichen Unterscheidungen besser mit Schriftschnitten und Größen zu variieren.
 
-Bild
+![Abbildung ??: Schriftmischungen](https://github.com/nisjaklaus/OER_Projekt/blob/main/Mann_02.jpg?raw=true "Abb. ??: Schriftmischungen")
 
 > “Denken wir uns, um das Schriftenmischen an einem Beispiel zu
 > illustrieren, einen Mann angetan mit einem altdeutschen Wams,
@@ -451,7 +451,13 @@ Bild
 
 Die Aussage eines Bildes kann über das gewählte Format verstärkt werden. Man unterscheidet zwischen den Panoramaformat ähnlich 16:9, dem Landschaftsformat  – ein statisches horizontales querliegendes Format, dem Portraitformat  – ein dynamisches vertikales Format oder auch ein quadratisches Format (wie z.B. bei Instagram Einträgen), was ein ausgewogenes, stabiles Format darstellt.
 
-Bild
+![Abbildung ??: Quadrat](https://github.com/nisjaklaus/OER_Projekt/blob/main/Hochzeit_Quadrat.jpg?raw=true "Abb. ??: Quadrat")
+
+![Abbildung ??: Panorama 2](https://github.com/nisjaklaus/OER_Projekt/blob/main/Hochzeit_Panorama2.jpg?raw=true "Abb. ??: Panorama 2")
+
+![Abbildung ??: Panorama 1](https://github.com/nisjaklaus/OER_Projekt/blob/main/Hochzeit_Panorama1.jpg?raw=true "Abb. ??: Panorama 1")
+
+![Abbildung ??: Hochkant](https://github.com/nisjaklaus/OER_Projekt/blob/main/Hochzeit_Hochkant.jpg?raw=true "Abb. ??: Hochkant")
 
 <br>
 <br>
