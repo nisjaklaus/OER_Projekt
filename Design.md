@@ -260,7 +260,7 @@ anleitung werden jeweils anders gelesen und wahrgenommen.
 
 **Schriftfamilien**
 
-Bild
+![Abbildung ??: Schriftfamilien](https://github.com/nisjaklaus/OER_Projekt/blob/main/Schriftfamilie.jpg?raw=true "Abb. ??: Schriftfamilien")
 
 Schriftfamilien sind eine Gruppe von Schriftschnitten, die auf einer ähnlichen Formen-
 sprache der Auszeichnungsmerkmalen einer Schrift basieren in Bezug auf Strichstärke, Proportionen und Winkel einer Schrift. Nach rechts geneigte Schriften ähneln dem Duktus einer Schreibschrift. Sie werden kursiv (eng.: italic) genannt. Schriftfamilien sind an den Angaben wie mager, normal, fett, bold, schmal, condensed, kursiv oder oblique zu erkennen.
@@ -412,6 +412,8 @@ Vertikale Linien sowie Farbblöcke können eine Seite strukturieren und bestimmt
 
 Kästen und Umrandungen können Inhalte strukturieren und von anderen Bereichen visuell absetzen.
 
+![Abbildung ??: Plakat DINI Twillo](https://github.com/nisjaklaus/OER_Projekt/blob/main/Plakat_Dini.jpg?raw=true "Abb. ??: Plakat DINI Twillo")
+
 Bild
 
 ## Bilder
@@ -518,6 +520,8 @@ Bild
 
 Im Gegensatz zu Fotografien können abstrahierte Darstellungen in der Form von Zeichnungen, Skizzen, Piktogrammen, Symbolen oder Icons die Wahrnehmung und die Auseinandersetzung mit einem Thema intensivieren und einen Blick durch die visuelle Darstellung lenken. Dabei wird eine Bildaussage auf etwas Wesentliches reduziert. Beiwerk wie Hintergrund, Landschaft oder das Umfeld eines fotografierten Gegenstandes, ein bestimmter Lichteinfall oder eine Perspektive können die Analyse eines Bildes nicht beeinflussen. Illustrationen und abstrakte Darstellungen reduzieren daher die visuelle Komplexität und ermöglichen eine Fokussierung auf das Wesentliche. Im Kontext der Lehre sind Illustrationen oder auch einfache Strichfiguren oftmals hilfreicher. Skizzen und Illustrationen weichen den Anspruch an Perfektion auf und geben Raum für die eigene Interpretation. Eine Auseinandersetzung mit einem Sachverhalt kann intensiviert werden. Zudem sind Skizzen und Strichfiguren schneller herzustellen und ermöglichen auch den rechtefreien Einsatz.
 
+![Abbildung ??: Symbole](https://github.com/nisjaklaus/OER_Projekt/blob/main/Illustration_Icons.jpg?raw=true "Abb. ??: Symbole")
+
 Bild
 
 <br>
@@ -554,6 +558,8 @@ ggf. eine Rahmung oder Hintergrundfläche, wenn eine klare Unterscheidung zu and
 - Gemäß der Lesekonvention liest man Balken- und Säulendiagramme von links oben nach rechts unten, Kreisdiagramme lassen sich im Uhrzeigersinn lesen
 - Diagramme sollten klare Beschriftungen aufführen (Überschrift, Name, Titel mit zentraler Aussage, Benennung der Achsen, Einheiten, Aktualität und Zeiträume der Daten)
 - Das Aufführen des Nullpunkts ist ein wesentlicher Referenzpunkt für das Verständnis
+
+![Abbildung ??: Diagramm](https://github.com/nisjaklaus/OER_Projekt/blob/main/Illustrationen_Diagramme.jpg?raw=true "Abb. ??: Diagramm")
 
 Bild
 
