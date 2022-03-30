@@ -1,6 +1,7 @@
 <!--
 author:   Prof. Dr. Bettina Bruder
 version:  0.0.1
+logo:     https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER.png?raw=true
 language: de
 narrator: Deutsch Male
 comment:  Dies ist das OER Projekt
