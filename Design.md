@@ -9,13 +9,6 @@ comment:  Dies ist das OER Projekt
 
 # Einleitung, allgemeine Informationen
 
-EPS :
-
-<embed src="https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER.eps?raw=true">
-
-<br>
-<br>
-
 PNG :
 
 ![Abbildung 01: Gesetz der Nähe](https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER.png?raw=true "Abb. 01: Gesetz der Nähe")
@@ -26,13 +19,6 @@ PNG :
 JPG: 
 
 ![Abbildung 01: Gesetz der Nähe](https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER.jpg?raw=true "Abb. 01: Gesetz der Nähe")
-
-<br>
-<br>
-
-EPS 300:
-
-<embed src="https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER_300.eps">
 
 <br>
 <br>
