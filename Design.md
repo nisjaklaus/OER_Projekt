@@ -11,6 +11,8 @@ comment:  Dies ist das OER Projekt
 
 <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg" alt="drawing" width="50%"/>
 
+<img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg" alt="drawing" width="80%"/>
+
 ![Abbildung 01: Gesetz der Nähe](https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg "Abb. 01: Gesetz der Nähe")
 
 PNG :
