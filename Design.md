@@ -161,8 +161,11 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 ![Abbildung 09: Gesetz der Erfahrung](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Erfahrung.jpg?raw=true "Abb. 09: Gesetz der Erfahrung (Haus, Dreieck, Quardrat)")
 
 # Darstellungselemente
-Grafische Variablen
-===================
+
+Grafische Elemente und Variablen, Texte, Bilder, Diagramme und Tabellen sind die geläufigsten Darstellungselemente in Lehrmaterialien. Im folgenden Abschnitt werden die einzelnen Darstellungselemente detailliert besprochen und Hinweise zum Einsatz aufgeführt:
+
+## Grafische Variablen
+
 Grafische Variablen sind zum Beispiel Punkte, Linien, Flächen und typografische Zeichen, die in unterschiedlichen Kompositionen angeordnet werden können. In der Anordnung der grafischen Variablen können bestimmte Zusammenhänge und Hierarchien visualisiert werden und so entsprechende Bedeutungen und Eigenschaften vermittelt werden. Dabei werden Zusammengehörigkeit, Rangfolgen und Wichtigkeiten dargestellt.
 
 <br>
@@ -610,27 +613,4 @@ ggf. eine Rahmung oder Hintergrundfläche, wenn eine klare Unterscheidung zu and
 
 Bild
 
-### Textarten
-![Schwarz-Weiß](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_SW.jpg?raw=true "Schwarz-Weiß")
-### Struktur und Gestaltungselemente
-![Weiß-#99CCCC](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_W99CCCC.jpg?raw=true "Weiß-#99CCCC")
-### Typografie
-![Weiß-87D1D1](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_W87D1D1.jpg?raw=true "Weiß-87D1D1")
-### Lesbarkeit
-![Weiß-Grau](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_WG.jpg?raw=true "Weiß-Grau")
-## Bilder
-![Schwarz-Grau](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_SG.jpg?raw=true "Schwarz-Grau")
-### Fotografien
-![Schwarz-99CCCC](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_S99CCCC.jpg?raw=true "Schwarz-99CCCC")
-### Illustrationen
-![Schwarz-87D1D1](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_S87D1D1.jpg?raw=true "Schwarz-87D1D1")
-## Diagramme/Tabellen/Charts
-![Grau-Weiß](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_GW.jpg?raw=true "Grau-Weiß")
-# Medien
-![Grau-99CCCC](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_G99CCCC.jpg?raw=true "Grau-99CCCC")
-## Skripte
-![Grau-87D1D1](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_500500_G87D1D1.jpg?raw=true "Grau-87D1D1")
-## Arbeitsblätter
-## Folien
 
-# Software und Tutorials
