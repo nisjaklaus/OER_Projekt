@@ -12,20 +12,38 @@ comment:  Dies ist das OER Projekt
 EPS :
 <embed src="https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER.eps?raw=true">
 
+<br>
+<br>
+
 PNG :
 ![Abbildung 01: Gesetz der Nähe](https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER.png?raw=true "Abb. 01: Gesetz der Nähe")
+
+<br>
+<br>
 
 JPG: 
 ![Abbildung 01: Gesetz der Nähe](https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER.jpg?raw=true "Abb. 01: Gesetz der Nähe")
 
+<br>
+<br>
+
 EPS 300:
 <embed src="https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER_300.eps">
+
+<br>
+<br>
 
 PNG 300:
 ![Abbildung 01: Gesetz der Nähe](https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER_300.png?raw=true "Abb. 01: Gesetz der Nähe")
 
+<br>
+<br>
+
 SVG 300:
 ![Abbildung 01: Gesetz der Nähe](https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c91112eb7e935b89af3386fb7f51d54102cb6fe7/Tabellen_OER_300.svg "Abb. 01: Gesetz der Nähe")
+
+<br>
+<br>
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500" height="500" />
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
