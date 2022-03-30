@@ -8,6 +8,12 @@ comment:  Dies ist das OER Projekt
 
 
 # Einleitung, allgemeine Informationen
+
+
+<embed src="https://github.com/nisjaklaus/OER_Projekt/blob/main/Tabellen_OER_300.eps">
+
+![Abbildung 01: Gesetz der Nähe](https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c91112eb7e935b89af3386fb7f51d54102cb6fe7/Tabellen_OER_300.svg "Abb. 01: Gesetz der Nähe")
+
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500" height="500" />
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --> Welt
