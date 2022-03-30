@@ -10,15 +10,22 @@ comment:  Dies ist das OER Projekt
 # Einleitung, allgemeine Informationen
 
 <figure>
-  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg" alt /> 
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg" alt="Drawing" width="50%" /> 
   <figcaption> Abb. 01: Gesetz der Nähe </figcaption>
 </figure>
+
+<figure>
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg" alt="Drawing" width="80%" /> 
+  <figcaption> Abb. 01: Gesetz der Nähe </figcaption>
+</figure>
+
+![Abbildung 01: Gesetz der Nähe](https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg "Abb. 01: Gesetz der Nähe")
 
 <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg" alt="drawing" width="50%"/>
 
 <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg" alt="drawing" width="80%"/>
 
-![Abbildung 01: Gesetz der Nähe](https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg "Abb. 01: Gesetz der Nähe")
+
 
 PNG :
 
