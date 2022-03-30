@@ -372,7 +372,7 @@ Ein angemessener Zeilenabstand ermöglicht im Auge eine klare Zeilenführung, de
 <br>
 <br>
 
-**Satzarten**
+### Satzarten
 
 Bild
 
