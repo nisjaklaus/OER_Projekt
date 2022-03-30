@@ -1,12 +1,13 @@
 <!--
 author:   Prof. Dr. Bettina Bruder
 version:  0.0.1
-logo:     https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Aehnlichkeit_01.jpg?raw=true
+logo:     https://liascript.github.io/img/bg-showcase-1.jpg
 language: de
 narrator: Deutsch Male
 comment:  Dies ist das OER Projekt
 -->
 
+# Gestaltung von Lernmaterialien
 
 # Einleitung, allgemeine Informationen
 
