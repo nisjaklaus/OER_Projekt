@@ -9,8 +9,6 @@ comment:  Dies ist das OER Projekt
 
 # Gestaltung von Lernmaterialien
 
-# Einleitung, allgemeine Informationen
-
 <figure>
     <img src="/img/Skizze_Lernmaterialien_02.svg" alt="Test Bild" width="50%" />
   <figcaption> Abb. ??: Test </figcaption>
@@ -31,6 +29,10 @@ Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise 
 <b>Das Git-Hub Repository zu diesem Kurs finden Sie xxx (hier – Link updaten bzw. ist es sinnvoll, dies hier aufzuführen?). </b>
     
 </div>
+
+Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
+
+# Einleitung, allgemeine Informationen
 
 <figure>
     <img src="/img/MaybritSticker_03.png" alt="Test Bild" width="50%" />
