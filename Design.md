@@ -12,6 +12,11 @@ comment:  Dies ist das OER Projekt
 # Einleitung, allgemeine Informationen
 
 <figure>
+    <img src="/img/MaybritSticker_03.png" alt="Test Bild" width="50%" />
+  <figcaption> Abb. ??: Test </figcaption>
+</figure>
+
+<figure>
   <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/c58f49cd6bc6b485e1344559094e42eeb633ef38/DesignTheorieNet_400400_Aehnlichkeit_SVG.svg" alt="Drawing" width="50%" /> 
   <figcaption> Abb. 01: Gesetz der Nähe </figcaption>
 </figure>
