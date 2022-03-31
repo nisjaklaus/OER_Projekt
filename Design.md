@@ -14,11 +14,6 @@ comment:  Dies ist das OER Projekt
   <figcaption> Abb. ??: Test </figcaption>
 </figure>
 
-<figure>
-    <img src="/img/Skizze_Lernmaterialien_03.svg" alt="Test Bild" width="100%" />
-  <figcaption> Abb. ??: Test </figcaption>
-</figure>
-
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
     
