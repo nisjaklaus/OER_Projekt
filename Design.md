@@ -701,6 +701,21 @@ In der Gestaltung von Lehrmitteln sollten Bild -und Textebenen klar voneinander 
 
 Folgende Tabelle nach Ballstaedt gibt einen Hinweis auf die unterschiedlichen Funktionen von Text und Bild:
 
+<figure>
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VergleichFormDiagrammeS8.svg" alt="Abbildung ??: Symbole" width="80%" />
+  <figcaption> Abb. ??: T3 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VisKonventionenS7.svg" alt="Abbildung ??: Symbole" width="80%" />
+  <figcaption> Abb. ??: T2 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/TabelleDiagrammeS9.svg" alt="Abbildung ??: Symbole" width="80%" />
+  <figcaption> Abb. ??: T3 </figcaption>
+</figure>
+
 Bild<!-- style="color: red; font-size: 4rem;" -->
 
 <br>
