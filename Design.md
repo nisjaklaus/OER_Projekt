@@ -23,6 +23,7 @@ comment:  Dies ist das OER Projekt
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
+    
 **Lizenzhinweis**
     
 ![CC BY Icon](img/CC_BY_ICON.svg)<!-- style = "text-align:center;" -->
