@@ -12,6 +12,21 @@ comment:  Dies ist das OER Projekt
 # Einleitung, allgemeine Informationen
 
 <figure>
+    <img src="/img/Skizze_Lernmaterialien_02.svg" alt="Test Bild" width="50%" />
+  <figcaption> Abb. ??: Test </figcaption>
+</figure>
+
+<figure>
+    <img src="/img/Skizze_Lernmaterialien_03.svg" alt="Test Bild" width="50%" />
+  <figcaption> Abb. ??: Test </figcaption>
+</figure>
+
+![CC BY Icon](img/CC_BY_ICON.svg)<!-- style = "text-align:center;" -->
+Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise Klaus und twillo ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz CC BY 4.0 (Logos ausgenommen). <br>
+<b>Das Git-Hub Repository zu diesem Kurs finden Sie xxx (hier – Link updaten bzw. ist es sinnvoll, dies hier aufzuführen?). </b>
+</div>
+
+<figure>
     <img src="/img/MaybritSticker_03.png" alt="Test Bild" width="50%" />
   <figcaption> Abb. ??: Test </figcaption>
 </figure>
