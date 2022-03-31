@@ -21,7 +21,6 @@ comment:  Dies ist das OER Projekt
     
 ![CC BY Icon](img/CC_BY_ICON.svg)<!-- style = "text-align:center;" -->
 Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise Klaus und twillo ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz CC BY 4.0 (Logos ausgenommen). <br>
-<b>Das Git-Hub Repository zu diesem Kurs finden Sie xxx (hier – Link updaten bzw. ist es sinnvoll, dies hier aufzuführen?). </b>
     
 </div>
 
@@ -42,7 +41,7 @@ Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise 
 - [Abbildungsverzeichnis](#10) 
 
 -------------
-Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
+Die Kursvorlage zählt aufgrund ihrer Lizenz zu den **Open Educational Resources (OER)** . Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
 
 ## Einleitung, allgemeine Informationen
 
