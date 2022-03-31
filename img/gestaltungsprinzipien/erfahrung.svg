@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Ebene2" transform="matrix(0.8,0,0,0.8,0,0)">
+        <rect x="0" y="0" width="500" height="500" style="fill:white;stroke:white;stroke-width:1px;"/>
+        <g id="Haus" transform="matrix(1.25,0,0,1.25,0,0)">
+            <g transform="matrix(1,0,-3.69779e-32,1,49.9305,25.0931)">
+                <path d="M237.554,13.447L287.559,63.269L187.549,63.269L237.554,13.447Z" style="fill:none;stroke:rgb(0,153,153);stroke-width:2.08px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(1,-1.2326e-32,0,1.00054,50.0507,0.0969224)">
+                <rect x="187.549" y="87.955" width="100.01" height="100.01" style="fill:none;stroke:rgb(0,153,153);stroke-width:2.08px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(1.98236,0,0,1,-183.285,-25.1744)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:2.65px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(0.270695,0,0,1,268.647,-27.0548)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:5.69px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(1.93901,0,0,1,-172.899,75.0127)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:2.7px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(1.21093e-16,-1.9776,1,6.12323e-17,223.953,633.308)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:2.66px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(1.21093e-16,-0.988801,1,3.06162e-17,123.944,373.486)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:4.19px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(0.985171,0.985171,-0.707107,0.707107,158.903,-250.789)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:3.44px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(0.832367,0,0,1,44.0481,-25.1744)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:4.53px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(-0.241703,0.241703,-0.707107,-0.707107,383.807,107.038)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:5.58px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(2.77556e-17,0.0325809,-1,0,354.269,81.1569)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:5.89px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+        </g>
+        <g id="Dreieck" transform="matrix(1.25,0,0,1.25,0,0)">
+            <g transform="matrix(1,0,0,1.01877,50.7403,97.2133)">
+                <path d="M212.025,163.065L312.088,261.21L111.962,261.21L212.025,163.065Z" style="fill:none;stroke:rgb(0,153,153);stroke-width:2.06px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(-1.81019,1.81019,-0.707107,-0.707107,722.758,-35.1622)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:2.14px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(5.7315e-16,0.249495,-1,-4.41083e-16,278.522,296.725)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:5.72px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(-1.97643,2.1808e-15,-7.37686e-16,-1,731.928,476.537)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:2.66px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(-0.988801,1.05744e-15,-9.37442e-16,-1,572.402,476.319)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:4.19px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(-0.988801,-0.988801,0.707107,-0.707107,492.119,652.515)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:3.43px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(-0.948222,-0.948222,0.707107,-0.707107,432.386,592.781)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:3.52px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+        </g>
+        <g id="Quadrat" transform="matrix(1.25,0,0,1.25,0,-3.55271e-14)">
+            <g transform="matrix(1.4945,1.11022e-16,-1.11022e-16,1.48768,-55.4328,-91.5148)">
+                <path d="M112.355,137.832L162.703,188.18L112.355,238.528L62.007,188.18L112.355,137.832Z" style="fill:none;stroke:rgb(0,153,153);stroke-width:1.4px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(0.927474,0.927474,-0.707107,0.707107,-26.0816,-185.325)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:3.57px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(0.939494,0.939494,-0.707107,0.707107,19.6953,-139.755)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:3.54px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(1.93574,1.93574,-0.707107,0.707107,-317.078,-326.291)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:2.02px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(-0.995936,0.995936,-0.707107,-0.707107,479.321,57.3228)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:3.41px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+            <g transform="matrix(-0.987638,0.987638,-0.707107,-0.707107,402.139,-15.5967)">
+                <path d="M237.48,113.536L262.765,113.536" style="fill:none;stroke:white;stroke-width:3.43px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.25,0,0,1.25,-56.6802,-79.7817)">
+            <text x="51.54px" y="83.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="95.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="108.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="120.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="133.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="145.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="158.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="170.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="183.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="195.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="208.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="220.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="233.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="245.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="258.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="270.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="283.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="295.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="308.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="320.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="333.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="345.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="358.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="370.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + +</text>
+            <text x="376.593px" y="370.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + +</text>
+            <text x="51.54px" y="383.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="395.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="408.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="420.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="433.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="445.556px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:none;">+ + + + + + + + + + + + + + + +</text>
+            <text x="51.54px" y="458.056px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,153,153);stroke:rgb(0,153,153);stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">+ + + + + + + + + + + + + + + +</text>
+        </g>
+    </g>
+</svg>
