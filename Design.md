@@ -30,6 +30,21 @@ Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise 
     
 </div>
 
+- [Einleitung, allgemeine Informationen](#2)
+
+- [Gestaltungsprinzipien und didaktisches Design](#3)
+
+-[Darstellungselemente](#4)
+  - [Grafische Variablen](#5)
+  - [Text](#6)
+  - [Bilder](#7)
+
+- [Text-Bild Verhältnis](#8)
+
+- [Literaturverzeichnis](#9)
+- [Abbildungsverzeichnis](#10) 
+
+-------------
 Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
 
 # Einleitung, allgemeine Informationen
@@ -643,4 +658,8 @@ ggf. eine Rahmung oder Hintergrundfläche, wenn eine klare Unterscheidung zu and
 
 Bild
 
+# Text-Bild Verhältnis
 
+# Literaturverzeichnis
+
+# Abbildungsverzeichnis
