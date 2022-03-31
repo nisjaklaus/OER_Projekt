@@ -43,7 +43,7 @@ Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise 
 - [Text-Bild Verhältnis](#8)
 
 - [Literaturverzeichnis](#9)
-- 
+
 - [Abbildungsverzeichnis](#10) 
 
 -------------
