@@ -34,11 +34,11 @@ Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise 
 
 - [Gestaltungsprinzipien und didaktisches Design](#3)
 
--[Darstellungselemente](#4)
+- [Darstellungselemente](#4)
 
-    - [Grafische Variablen](#5)
-    - [Text](#6)
-    - [Bilder](#7)
+- [Grafische Variablen](#5)
+- [Text](#6)
+- [Bilder](#7)
 
 - [Text-Bild Verhältnis](#8)
 
@@ -49,7 +49,7 @@ Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise 
 -------------
 Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
 
-# Einleitung, allgemeine Informationen
+## Einleitung, allgemeine Informationen
 
 <figure>
     <img src="/img/MaybritSticker_03.png" alt="Test Bild" width="50%" />
@@ -106,7 +106,7 @@ SVG 300:
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 Hallo<!-- style="color: turquoise; font-size: 4rem; font-family: Courier New" --> Welt
 
-# Gestaltungsprinzipien und didaktisches Design
+## Gestaltungsprinzipien und didaktisches Design
 **Gestaltungsprinzipien und didaktisches Design**
 
 Lehrmaterialien, Skripte und sichtbare Informationen machen einen stummen Dialog sichtbar. Eine sparsame Typografie, eine reduzierte Grafik und eine funktionsbestimmte Form unterstützen die Vermittlung von Klarheit, Ordnung und Gewissheit wissenschaftlicher Informationen. Didaktisches Design ist nach Ballstaedt (1997, S.12) die „planmäßige und lernwirksame Entwicklung von Lernumgebungen (…) auf wissenschaftlicher Grundlage“ (1997, S.12).
@@ -207,7 +207,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 
 ![Abbildung 09: Gesetz der Erfahrung](https://github.com/nisjaklaus/OER_Projekt/blob/main/DesignTheorieNet_400400_Erfahrung.jpg?raw=true "Abb. 09: Gesetz der Erfahrung (Haus, Dreieck, Quardrat)")
 
-# Darstellungselemente
+## Darstellungselemente
 
 Grafische Elemente und Variablen, Texte, Bilder, Diagramme und Tabellen sind die geläufigsten Darstellungselemente in Lehrmaterialien. Im folgenden Abschnitt werden die einzelnen Darstellungselemente detailliert besprochen und Hinweise zum Einsatz aufgeführt:
 
@@ -660,8 +660,8 @@ ggf. eine Rahmung oder Hintergrundfläche, wenn eine klare Unterscheidung zu and
 
 Bild
 
-# Text-Bild Verhältnis
+## Text-Bild Verhältnis
 
-# Literaturverzeichnis
+## Literaturverzeichnis
 
-# Abbildungsverzeichnis
+## Abbildungsverzeichnis
