@@ -10,12 +10,12 @@ comment:  Dies ist das OER Projekt
 # Gestaltung von Lernmaterialien
 
 <figure>
-    <img src="/img/Skizze_Lernmaterialien_02.svg" alt="Test Bild" width="50%" />
+    <img src="/img/Skizze_Lernmaterialien_02.svg" alt="Test Bild" width="100%" />
   <figcaption> Abb. ??: Test </figcaption>
 </figure>
 
 <figure>
-    <img src="/img/Skizze_Lernmaterialien_03.svg" alt="Test Bild" width="50%" />
+    <img src="/img/Skizze_Lernmaterialien_03.svg" alt="Test Bild" width="100%" />
   <figcaption> Abb. ??: Test </figcaption>
 </figure>
 
