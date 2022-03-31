@@ -21,9 +21,13 @@ comment:  Dies ist das OER Projekt
   <figcaption> Abb. ??: Test </figcaption>
 </figure>
 
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>**Lizenzhinweis**
+    
 ![CC BY Icon](img/CC_BY_ICON.svg)<!-- style = "text-align:center;" -->
 Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise Klaus und twillo ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz CC BY 4.0 (Logos ausgenommen). <br>
 <b>Das Git-Hub Repository zu diesem Kurs finden Sie xxx (hier – Link updaten bzw. ist es sinnvoll, dies hier aufzuführen?). </b>
+    
 </div>
 
 <figure>
