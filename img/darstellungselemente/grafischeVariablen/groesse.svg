@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-45.3442,-63.8253)">
+        <text x="51.54px" y="77.95px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:12.5px;fill:rgb(0,25,25);stroke:black;stroke-width:1px;">Lorem ipsum</text>
+        <text x="51.54px" y="98.783px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:20.833px;fill:rgb(0,25,25);stroke:black;stroke-width:1px;">Lorem ipsum</text>
+        <text x="51.54px" y="127.95px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:29.167px;fill:rgb(0,25,25);stroke:black;stroke-width:1px;">Lorem ipsum</text>
+        <text x="51.54px" y="165.45px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:37.5px;fill:rgb(0,25,25);stroke:black;stroke-width:1px;">Lorem ipsum</text>
+        <text x="51.54px" y="219.616px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:54.167px;fill:rgb(0,25,25);stroke:black;stroke-width:1px;">Lorem ipsum</text>
+    </g>
+    <g id="Ebene3">
+    </g>
+    <g id="Ebene4">
+        <g transform="matrix(1.0872,0,0,0.508771,-17.3868,173.784)">
+            <rect x="21.691" y="289.177" width="356.519" height="41.304"/>
+        </g>
+        <g transform="matrix(1.0872,0,0,0.788666,-17.3868,132.896)">
+            <rect x="21.691" y="289.177" width="356.519" height="41.304"/>
+        </g>
+        <g transform="matrix(1.0872,0,0,0.31228,-17.3868,198.67)">
+            <rect x="21.691" y="289.177" width="356.519" height="41.304"/>
+        </g>
+        <g transform="matrix(1.0872,0,0,0.228069,-17.3868,194.565)">
+            <rect x="21.691" y="289.177" width="356.519" height="41.304"/>
+        </g>
+        <g transform="matrix(1.0872,0,0,0.153335,-17.3868,190.806)">
+            <rect x="21.691" y="289.177" width="356.519" height="41.304"/>
+        </g>
+        <g transform="matrix(1.0872,0,0,0.101596,-17.3868,182.535)">
+            <rect x="21.691" y="289.177" width="356.519" height="41.304"/>
+        </g>
+        <g transform="matrix(1.0872,0,0,0.0437271,-17.3868,178.426)">
+            <rect x="21.691" y="289.177" width="356.519" height="41.304"/>
+        </g>
+    </g>
+</svg>
