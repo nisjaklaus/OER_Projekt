@@ -35,9 +35,9 @@ Diese Einführung zur Gestaltung von Lernmaterialien von Bettina Bruder, Denise 
 - [Gestaltungsprinzipien und didaktisches Design](#3)
 
 -[Darstellungselemente](#4)
-  - [Grafische Variablen](#5)
-  - [Text](#6)
-  - [Bilder](#7)
+    - [Grafische Variablen](#5)
+    - [Text](#6)
+    - [Bilder](#7)
 
 - [Text-Bild Verhältnis](#8)
 
