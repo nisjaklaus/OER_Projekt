@@ -582,7 +582,10 @@ Beim Positionieren mehrere Bilder und der Komposition von Bild und Text müssen 
 
 Aufgrund von technischen Bedingungen und einer Betrachtungsweise, die von einer abendländischen Kultur geprägt ist, ist das rechteckige Format eines Bildes vorherrschend. Dabei werden durch den Rahmen eines Bildes, die Blickpunkte, Perspektiven und auch die Bildausschnitte festgelegt. Ebenfalls wird auch das nicht Dargestellte durch einen Betrachter oder eine Betrachterin wahrgenommen, indem z.b. die Bereiche rechts und links oder oben und unten in einer Landschaftsdarstellung ausserhalb eines Bildrahmens mit gedacht bzw. geahnt werden und somit präsent sind.
 
-Bild<!-- style="color: red; font-size: 4rem;" -->
+<figure>
+  <img src="/img/darstellungselemente/bilder/rahmen.jpg" alt="Grafik Lernmaterialien" width="100%" />
+  <figcaption> Abb. 01: Lernmaterialien </figcaption>
+</figure>
 
 <br>
 <br>
@@ -591,7 +594,10 @@ Bild<!-- style="color: red; font-size: 4rem;" -->
 
 Über die Tiefenschärfe in einem Bild können sichtbare Bereiche geordnet strukturiert und hierarchisiert werden.Damit wird ein Blick gelenkt und ein Fokus auf einen bestimmten Bereich im Bild gelegt.
 
-Bild<!-- style="color: red; font-size: 4rem;" -->
+<figure>
+  <img src="/img/darstellungselemente/bilder/tiefenschaerfe.jpg" alt="Grafik Lernmaterialien" width="100%" />
+  <figcaption> Abb. 01: Lernmaterialien </figcaption>
+</figure>
 
 <br>
 <br>
@@ -600,7 +606,7 @@ Bild<!-- style="color: red; font-size: 4rem;" -->
 
 Die Aussage eines Bildes kann über das gewählte Format verstärkt werden. Man unterscheidet zwischen den Panoramaformat ähnlich 16:9, dem Landschaftsformat  – ein statisches horizontales querliegendes Format, dem Portraitformat  – ein dynamisches vertikales Format oder auch ein quadratisches Format (wie z.B. bei Instagram Einträgen), was ein ausgewogenes, stabiles Format darstellt.
 
-Bild<!-- style="color: red; font-size: 4rem;" -->
+Panorama, Landschaft,Portrait, Quadrat<!-- style="color: red; font-size: 4rem;" -->
 
 <br>
 <br>
@@ -610,7 +616,7 @@ Bild<!-- style="color: red; font-size: 4rem;" -->
 Die Komposition innerhalb eines Bildes und dessen Dynamik wird über die Einstellung eines Bildes deutlich. Bei Panoramaeinstellungen und Totalen spricht man von einem “informativen Blick” da möglichst viel sichtbar ist.
 Eine Halbtotale oder amerikanische Einstellung legt den Fokus auf die Handlung. Eine Nahaufnahme oder Großaufnahme wird häufig für emotionale Darstellungen eingesetzt. Diese werden vorwiegend über Detailaufnahmen von Gegenständen oder über Gesichter von Personen vermittelt.
 
-Bild<!-- style="color: red; font-size: 4rem;" -->
+einstellungsgroessen<!-- style="color: red; font-size: 4rem;" -->
 
 <br>
 <br>
@@ -622,7 +628,7 @@ Das menschliche Auge kennt drei verschiedene Perspektiven:
   - eine Vogelperspektive oder Aufsicht “vermittelt” einen Betrachter oder Betrachterin den Eindruck von Übersichtlichkeit und dadurch Kontrolle und Sicherheit.
   - Die Froschperspektive oder Untersicht stellt das Gefühl von Machtlosigkeit, Unsicherheit und Unterlegenheit dar.
 
-Bild<!-- style="color: red; font-size: 4rem;" -->
+normal,vogel,frosch <!-- style="color: red; font-size: 4rem;" -->
 
 Die Perspektive kann noch durch die Position des Bildes auf einer Seite verstärkt werden. Der Eindruck der Vogelperspektive kann durch eine Positionierung am oberen Bildrand verstärkt werden, die Bereiche darunter werden fast “niedergedrückt” bzw. dominiert. Eine Position am unteren Bildrand hingegen kann eine unterlegene Position ähnlich der Froschperspektive darstellen, aber auch eine stabilisierende Wirkung für eine Komposition haben. Die Seitenmitte unterstützt den Eindruck einer Information auf Augenhöhe.
 
@@ -635,7 +641,7 @@ Der Standpunkt indem ein fotografisches Bild angefertigt wurde, legt ebenfalls e
 
 Der Lichteinfall innerhalb eines fotografischen Bildes vermittelt unterschiedliche Informationen Stimmungen. Ein seitlicher Lichteinfall (Abbildung xx) stellt eine natürliche Lichtsituation da und wirkt realistisch. Ein senkrechter Lichtkegel von oben (Abbildung xy) erinnert an ein Spotlight und vermittelt den Eindruck einer Enthüllung. Ein diffuses Licht kann als Hinweis auf etwas Geheimnisvolles oder Emotionales gelesen werden. (Abbildung cc)
 
-Bild<!-- style="color: red; font-size: 4rem;" -->
+lichtschatten<!-- style="color: red; font-size: 4rem;" -->
 
 <br>
 <br>
@@ -652,7 +658,7 @@ Für den Fall, dass mehrere Bilder auf einer Seite eingesetzt werden, sollte ber
 
 Bei fotografischen Bildern können Filter wie Mosaikfilter, Rasterpunkte oder Weichzeichner sowie Techniken wie Collage, Schwarz/Weiß, Abstraktion und Umrisslinien oder Silhouetten eine Bildaussage verstärken. Filter und Manipulationen sollten jedoch vor allem in der Gestaltung von Lehrmaterialien nicht zum Selbstzweck der Verschönerung oder als dekoratives Beiwerk eingesetzt werden.
 
-Bild<!-- style="color: red; font-size: 4rem;" -->
+filter<!-- style="color: red; font-size: 4rem;" -->
 
 <br>
 <br>
@@ -666,8 +672,6 @@ Im Gegensatz zu Fotografien können abstrahierte Darstellungen in der Form von Z
   <img src="/img/darstellungselemente/bilder/symbole.svg" alt="Abbildung ??: Symbole" width="80%" />
   <figcaption> Abb. ??: Symbole </figcaption>
 </figure>
-
-Bild<!-- style="color: red; font-size: 4rem;" -->
 
 <br>
 <br>
@@ -688,7 +692,20 @@ ggf. eine Rahmung oder Hintergrundfläche, wenn eine klare Unterscheidung zu and
 - Diagramme sollten klare Beschriftungen aufführen (Überschrift, Name, Titel mit zentraler Aussage, Benennung der Achsen, Einheiten, Aktualität und Zeiträume der Daten).
 - Das Aufführen des Nullpunkts ist ein wesentlicher Referenzpunkt für das Verständnis.
 
-Bild<!-- style="color: red; font-size: 4rem;" -->
+<figure>
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VisKonventionenS7.svg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: T2 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VergleichFormDiagrammeS8.svg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: T1 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/TabelleDiagrammeS9.svg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: T3 </figcaption>
+</figure>
 
 ## Text-Bild Verhältnis
 
@@ -700,21 +717,6 @@ Bilder werden im Lehrkontext zu Veranschaulichung und Illustration eines Sachver
 In der Gestaltung von Lehrmitteln sollten Bild -und Textebenen klar voneinander getrennt werden, daher in unterschiedlichen Bereichen, in einem entsprechend klaren Raster positioniert werden. Ein Mix zwischen Bild und Text innerhalb eines Fließtext entspricht eher der freien Gestaltung eines Unterhaltungsmagazins und widerspricht einer klaren strukturierten Darstellung.
 
 Folgende Tabelle nach Ballstaedt gibt einen Hinweis auf die unterschiedlichen Funktionen von Text und Bild:
-
-<figure>
-  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VergleichFormDiagrammeS8.svg" alt="Abbildung ??: Symbole" width="100%" />
-  <figcaption> Abb. ??: T3 </figcaption>
-</figure>
-
-<figure>
-  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VisKonventionenS7.svg" alt="Abbildung ??: Symbole" width="100%" />
-  <figcaption> Abb. ??: T2 </figcaption>
-</figure>
-
-<figure>
-  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/TabelleDiagrammeS9.svg" alt="Abbildung ??: Symbole" width="100%" />
-  <figcaption> Abb. ??: T3 </figcaption>
-</figure>
 
 Bild<!-- style="color: red; font-size: 4rem;" -->
 
