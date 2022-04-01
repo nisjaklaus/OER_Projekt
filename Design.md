@@ -583,7 +583,7 @@ Beim Positionieren mehrere Bilder und der Komposition von Bild und Text müssen 
 Aufgrund von technischen Bedingungen und einer Betrachtungsweise, die von einer abendländischen Kultur geprägt ist, ist das rechteckige Format eines Bildes vorherrschend. Dabei werden durch den Rahmen eines Bildes, die Blickpunkte, Perspektiven und auch die Bildausschnitte festgelegt. Ebenfalls wird auch das nicht Dargestellte durch einen Betrachter oder eine Betrachterin wahrgenommen, indem z.b. die Bereiche rechts und links oder oben und unten in einer Landschaftsdarstellung ausserhalb eines Bildrahmens mit gedacht bzw. geahnt werden und somit präsent sind.
 
 <figure>
-  <img src="/img/darstellungselemente/bilder/rahmen.jpg" alt="Grafik Lernmaterialien" width="100%" />
+  <img src="/img/darstellungselemente/bilder/rahmen.jpg" alt="Grafik Lernmaterialien" width="100%" height="100%" />
   <figcaption> Abb. 01: Lernmaterialien </figcaption>
 </figure>
 
@@ -595,7 +595,7 @@ Aufgrund von technischen Bedingungen und einer Betrachtungsweise, die von einer 
 Über die Tiefenschärfe in einem Bild können sichtbare Bereiche geordnet strukturiert und hierarchisiert werden.Damit wird ein Blick gelenkt und ein Fokus auf einen bestimmten Bereich im Bild gelegt.
 
 <figure>
-  <img src="/img/darstellungselemente/bilder/tiefenschaerfe.jpg" alt="Grafik Lernmaterialien" width="100%" />
+  <img src="/img/darstellungselemente/bilder/tiefenschaerfe.jpg" alt="Grafik Lernmaterialien" width="100%" height="100%" />
   <figcaption> Abb. 01: Lernmaterialien </figcaption>
 </figure>
 
@@ -607,22 +607,22 @@ Aufgrund von technischen Bedingungen und einer Betrachtungsweise, die von einer 
 Die Aussage eines Bildes kann über das gewählte Format verstärkt werden. Man unterscheidet zwischen den Panoramaformat ähnlich 16:9, dem Landschaftsformat  – ein statisches horizontales querliegendes Format, dem Portraitformat  – ein dynamisches vertikales Format oder auch ein quadratisches Format (wie z.B. bei Instagram Einträgen), was ein ausgewogenes, stabiles Format darstellt.
 
 <figure>
-  <img src="/img/darstellungselemente/bilder/panorama.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <img src="/img/darstellungselemente/bilder/panorama.jpg" alt="Abbildung ??: Symbole" width="100%" height="100%" />
   <figcaption> Abb. ??: Symbole </figcaption>
 </figure>
 
 <figure>
-  <img src="/img/darstellungselemente/bilder/landschaft.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <img src="/img/darstellungselemente/bilder/landschaft.jpg" alt="Abbildung ??: Symbole" width="100%" height="100%" />
   <figcaption> Abb. ??: Symbole </figcaption>
 </figure>
 
 <figure>
-  <img src="/img/darstellungselemente/bilder/portrait.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <img src="/img/darstellungselemente/bilder/portrait.jpg" alt="Abbildung ??: Symbole" width="100%" height="100%" />
   <figcaption> Abb. ??: Symbole </figcaption>
 </figure>
 
 <figure>
-  <img src="/img/darstellungselemente/bilder/quadrat.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <img src="/img/darstellungselemente/bilder/quadrat.jpg" alt="Abbildung ??: Symbole" width="100%" height="100%" />
   <figcaption> Abb. ??: Symbole </figcaption>
 </figure>
 
@@ -650,17 +650,17 @@ Das menschliche Auge kennt drei verschiedene Perspektiven:
   - Die Froschperspektive oder Untersicht stellt das Gefühl von Machtlosigkeit, Unsicherheit und Unterlegenheit dar.
 
 <figure>
-  <img src="/img/darstellungselemente/bilder/normal.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <img src="/img/darstellungselemente/bilder/normal.jpg" alt="Abbildung ??: Symbole" width="100%" height="100%" />
   <figcaption> Abb. ??: Symbole </figcaption>
 </figure>
 
 <figure>
-  <img src="/img/darstellungselemente/bilder/vogelAufsicht.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <img src="/img/darstellungselemente/bilder/vogelAufsicht.jpg" alt="Abbildung ??: Symbole" width="100%" height="100%" />
   <figcaption> Abb. ??: Symbole </figcaption>
 </figure>
 
 <figure>
-  <img src="/img/darstellungselemente/bilder/froschUntersicht.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <img src="/img/darstellungselemente/bilder/froschUntersicht.jpg" alt="Abbildung ??: Symbole" width="100%" height="100%" />
   <figcaption> Abb. ??: Symbole </figcaption>
 </figure>
 
