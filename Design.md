@@ -329,7 +329,7 @@ Serifen können eine optische Führung bieten. Durch die Serifen wird eine Zeile
 **Fraktur**
 
 <figure>
-  <img src="/img/darstellungselemente/text/fraktur.svg" alt="Abbildung ??: Fraktur" width="80%" />
+  <img src="/img/darstellungselemente/text/fraktur.svg" alt="Abbildung ??: Fraktur" width="50%" />
   <figcaption> Abb. ??: Fraktur </figcaption>
 </figure>
 
@@ -353,7 +353,7 @@ Humanistische Antiquaschriften / Renaissance-Antiqua zeigen geringe Unterschiede
 **Barock**
 
 <figure>
-  <img src="/img/darstellungselemente/text/barock.svg" alt="Abbildung ??: Barock" width="80%" />
+  <img src="/img/darstellungselemente/text/barock.svg" alt="Abbildung ??: Barock" width="70%" />
   <figcaption> Abb. ??: Barock </figcaption>
 </figure>
 
@@ -377,7 +377,7 @@ Die Klassizistischen Antiquaschriften zeichnen sich durch einen starken Kontrast
 **Egyptienne**
 
 <figure>
-  <img src="/img/darstellungselemente/text/egyptienne.svg" alt="Abbildung ??: Egyptienne" width="80%" />
+  <img src="/img/darstellungselemente/text/egyptienne.svg" alt="Abbildung ??: Egyptienne" width="60%" />
   <figcaption> Abb. ??: Egyptienne </figcaption>
 </figure>
 
