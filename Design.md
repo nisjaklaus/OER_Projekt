@@ -649,6 +649,8 @@ Das menschliche Auge kennt drei verschiedene Perspektiven:
   - eine Vogelperspektive oder Aufsicht “vermittelt” einen Betrachter oder Betrachterin den Eindruck von Übersichtlichkeit und dadurch Kontrolle und Sicherheit.
   - Die Froschperspektive oder Untersicht stellt das Gefühl von Machtlosigkeit, Unsicherheit und Unterlegenheit dar.
 
+Änderung!<!-- style="color: red; font-size: 4rem;" -->
+
 <figure>
   <img src="/img/darstellungselemente/bilder/normal.jpg" alt="Abbildung ??: Symbole" width="100%" height="100%" />
   <figcaption> Abb. ??: Symbole </figcaption>
