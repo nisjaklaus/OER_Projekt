@@ -88,7 +88,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Gruppierte Elemente, die näher beieinander stehen, werden zusammengehörend interpretiert. Horizontal oder vertikal angeordnete Objekte werden derselben Hierarchiestufe oder Kategorie zugehörig wahrgenommen. Voneinander entfernte Elemente werden als Einzelobjekte erfasst.
 
 <figure>
-  <img src="/img/gestaltungsprinzipien/naehe.svg" alt="Abbildung 01: Gesetz der Nähe" width="80%" />
+  <img src="/img/gestaltungsprinzipien/naehe.svg" alt="Abbildung 01: Gesetz der Nähe" width="70%" />
   <figcaption> Abb. 01: Gesetz der Nähe </figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Sich ähnelnde Elemente mit gemeinsamen Merkmalen wirken zusammengehöriger gegenüber inhomogenen Anordnungen. Gleichartige textliche Informationen werden zum Beispiel durch den gleichen Schriftschnitt gekennzeichnet. Lehrmaterialien sollten daher nach einer konsistenten Logik gestaltet werden. Kernaussagen an verschiedenen Stellen innerhalb eines Skripts sollen zum Beispiel in der gleichen grafischen Aufbereitung (z.B. mit einem Ausrufezeichen versehen, mit der gleichen Form von Spiegelpunkten, Absätzen, Schrifteinsatz oder auch grafischen Elementen wie Rahmen, Hintergrundflächen etc. von anderen Elementen unterscheidbar sein, so dass eine Leserin oder ein Leser sich schnell und übersichtlich orientieren können.
 
 <figure>
-  <img src="/img/gestaltungsprinzipien/aehnlichkeit.svg" alt="Abbildung 02: Gesetz der Ähnlichkeit/ Prinzip der Konsistenz" width="80%" />
+  <img src="/img/gestaltungsprinzipien/aehnlichkeit.svg" alt="Abbildung 02: Gesetz der Ähnlichkeit/ Prinzip der Konsistenz" width="70%" />
   <figcaption> Abb. 02: Gesetz der Ähnlichkeit/ Prinzip der Konsistenz </figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Elemente, die in einer Fläche eingefasst sind oder durch eine Linie umschlossen werden, wirken als Einheit oder zusammenhängende Form. Dies kann zum Einsatz kommen, wenn das Gesetz der Nähe oder der Ähnlichkeit keine klare Unterscheidung der Elemente und visuellen Informationen erlauben.
 
 <figure>
-  <img src="/img/gestaltungsprinzipien/geschlossenheit.svg" alt="Abbildung ??: Gesetz der Geschlossenheit" width="80%" />
+  <img src="/img/gestaltungsprinzipien/geschlossenheit.svg" alt="Abbildung ??: Gesetz der Geschlossenheit" width="70%" />
   <figcaption> Abb. ??: Gesetz der Geschlossenheit </figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Verbundene Elemente werden als ein Objekt verstanden.
 
 <figure>
-  <img src="/img/gestaltungsprinzipien/verbundenheit.svg" alt="Abbildung ??: Gesetz der Verbundenheit" width="80%" />
+  <img src="/img/gestaltungsprinzipien/verbundenheit.svg" alt="Abbildung ??: Gesetz der Verbundenheit" width="70%" />
   <figcaption> Abb. ??: Gesetz der Verbundenheit </figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Besondere Informationen können durch grafische Variablen wie Form und Farbton von gleichartigen Elementen in der Umgebung hervorgehoben werden. Relevante Inhalte und Aussagen sollten gegenüber unwichtigen Informationen unterschiedlich behandelt werden: Begriffsbezeichnungen, Definitionen, Merksätze und Formeln können beispielsweise durch grafische Elemente wie Farbe, Kontrast, Umrahmung oder eine bestimmte Textformatierung akzentuiert und so systematisch hervorgehoben werden.
 
 <figure>
-  <img src="/img/gestaltungsprinzipien/praegnanz.svg" alt="Abbildung ??: Gesetz der Prägnanz/ Ausnahmegesetz" width="80%" />
+  <img src="/img/gestaltungsprinzipien/praegnanz.svg" alt="Abbildung ??: Gesetz der Prägnanz/ Ausnahmegesetz" width="70%" />
   <figcaption> Abb. ??: Gesetz der Prägnanz/ Ausnahmegesetz </figcaption>
 </figure>
 
@@ -152,7 +152,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Lückenhafte Darstellungen werden durch erdachte Linien oder Kurven ergänzt.
 
 <figure>
-  <img src="/img/gestaltungsprinzipien/kontinuitaet.svg" alt="Abbildung ??: Gesetz der durchgehenden Linie/ Kontinuität" width="80%" />
+  <img src="/img/gestaltungsprinzipien/kontinuitaet.svg" alt="Abbildung ??: Gesetz der durchgehenden Linie/ Kontinuität" width="70%" />
   <figcaption> Abb. ??: Gesetz der durchgehenden Linie/ Kontinuität </figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Beispiele: Bilder sollten in einheitlichem Format und Größe eingesetzt werden. Überschriften sollten an gleicher Stelle und in gleicher Schriftart positioniert werden.
 
 <figure>
-  <img src="/img/gestaltungsprinzipien/symmetrie.svg" alt="Abbildung ??: Gesetz der Symmetrie" width="80%" />
+  <img src="/img/gestaltungsprinzipien/symmetrie.svg" alt="Abbildung ??: Gesetz der Symmetrie" width="70%" />
   <figcaption> Abb. ??: Gesetz der Symmetrie </figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Ein Bereich wird immer in einen indirekten Hintergrund und einen Vordergrund mit konkreten Elementen und Figuren eingeteilt.
 
 <figure>
-  <img src="/img/gestaltungsprinzipien/figurUndGrund.svg" alt="Abbildung ??: Gesetz von Figur und Grund" width="80%" />
+  <img src="/img/gestaltungsprinzipien/figurUndGrund.svg" alt="Abbildung ??: Gesetz von Figur und Grund" width="70%" />
   <figcaption> Abb. ??: Gesetz von Figur und Grund </figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ Aus den Erkenntnisse der Gestaltpsychologie können die Gestaltgesetze abgeleite
 - Gängige Formen sind auch bei starker Abänderung oder partieller Darstellung noch erkennbar.
 
 <figure>
-  <img src="/img/gestaltungsprinzipien/erfahrung.svg" alt="Abbildung ??: Gesetz der Erfahrung" width="80%" />
+  <img src="/img/gestaltungsprinzipien/erfahrung.svg" alt="Abbildung ??: Gesetz der Erfahrung" width="70%" />
   <figcaption> Abb. ??: Gesetz der Erfahrung </figcaption>
 </figure>
 
@@ -702,17 +702,17 @@ In der Gestaltung von Lehrmitteln sollten Bild -und Textebenen klar voneinander 
 Folgende Tabelle nach Ballstaedt gibt einen Hinweis auf die unterschiedlichen Funktionen von Text und Bild:
 
 <figure>
-  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VergleichFormDiagrammeS8.svg" alt="Abbildung ??: Symbole" width="80%" />
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VergleichFormDiagrammeS8.svg" alt="Abbildung ??: Symbole" width="100%" />
   <figcaption> Abb. ??: T3 </figcaption>
 </figure>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VisKonventionenS7.svg" alt="Abbildung ??: Symbole" width="80%" />
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/VisKonventionenS7.svg" alt="Abbildung ??: Symbole" width="100%" />
   <figcaption> Abb. ??: T2 </figcaption>
 </figure>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/TabelleDiagrammeS9.svg" alt="Abbildung ??: Symbole" width="80%" />
+  <img src="https://raw.githubusercontent.com/nisjaklaus/OER_Projekt/abd531031aa6494c464cf1aec9f7af13487bf211/TabelleDiagrammeS9.svg" alt="Abbildung ??: Symbole" width="100%" />
   <figcaption> Abb. ??: T3 </figcaption>
 </figure>
 
