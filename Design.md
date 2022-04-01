@@ -606,7 +606,25 @@ Aufgrund von technischen Bedingungen und einer Betrachtungsweise, die von einer 
 
 Die Aussage eines Bildes kann über das gewählte Format verstärkt werden. Man unterscheidet zwischen den Panoramaformat ähnlich 16:9, dem Landschaftsformat  – ein statisches horizontales querliegendes Format, dem Portraitformat  – ein dynamisches vertikales Format oder auch ein quadratisches Format (wie z.B. bei Instagram Einträgen), was ein ausgewogenes, stabiles Format darstellt.
 
-Panorama, Landschaft,Portrait, Quadrat<!-- style="color: red; font-size: 4rem;" -->
+<figure>
+  <img src="/img/darstellungselemente/bilder/panorama.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: Symbole </figcaption>
+</figure>
+
+<figure>
+  <img src="/img/darstellungselemente/bilder/landschaft.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: Symbole </figcaption>
+</figure>
+
+<figure>
+  <img src="/img/darstellungselemente/bilder/portrait.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: Symbole </figcaption>
+</figure>
+
+<figure>
+  <img src="/img/darstellungselemente/bilder/quadrat.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: Symbole </figcaption>
+</figure>
 
 <br>
 <br>
@@ -616,7 +634,10 @@ Panorama, Landschaft,Portrait, Quadrat<!-- style="color: red; font-size: 4rem;" 
 Die Komposition innerhalb eines Bildes und dessen Dynamik wird über die Einstellung eines Bildes deutlich. Bei Panoramaeinstellungen und Totalen spricht man von einem “informativen Blick” da möglichst viel sichtbar ist.
 Eine Halbtotale oder amerikanische Einstellung legt den Fokus auf die Handlung. Eine Nahaufnahme oder Großaufnahme wird häufig für emotionale Darstellungen eingesetzt. Diese werden vorwiegend über Detailaufnahmen von Gegenständen oder über Gesichter von Personen vermittelt.
 
-einstellungsgroessen<!-- style="color: red; font-size: 4rem;" -->
+<figure>
+  <img src="/img/darstellungselemente/bilder/einstellungsgroessen.svg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: Symbole </figcaption>
+</figure>
 
 <br>
 <br>
@@ -628,7 +649,20 @@ Das menschliche Auge kennt drei verschiedene Perspektiven:
   - eine Vogelperspektive oder Aufsicht “vermittelt” einen Betrachter oder Betrachterin den Eindruck von Übersichtlichkeit und dadurch Kontrolle und Sicherheit.
   - Die Froschperspektive oder Untersicht stellt das Gefühl von Machtlosigkeit, Unsicherheit und Unterlegenheit dar.
 
-normal,vogel,frosch <!-- style="color: red; font-size: 4rem;" -->
+<figure>
+  <img src="/img/darstellungselemente/bilder/normal.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: Symbole </figcaption>
+</figure>
+
+<figure>
+  <img src="/img/darstellungselemente/bilder/vogelAufsicht.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: Symbole </figcaption>
+</figure>
+
+<figure>
+  <img src="/img/darstellungselemente/bilder/froschUntersicht.jpg" alt="Abbildung ??: Symbole" width="100%" />
+  <figcaption> Abb. ??: Symbole </figcaption>
+</figure>
 
 Die Perspektive kann noch durch die Position des Bildes auf einer Seite verstärkt werden. Der Eindruck der Vogelperspektive kann durch eine Positionierung am oberen Bildrand verstärkt werden, die Bereiche darunter werden fast “niedergedrückt” bzw. dominiert. Eine Position am unteren Bildrand hingegen kann eine unterlegene Position ähnlich der Froschperspektive darstellen, aber auch eine stabilisierende Wirkung für eine Komposition haben. Die Seitenmitte unterstützt den Eindruck einer Information auf Augenhöhe.
 
