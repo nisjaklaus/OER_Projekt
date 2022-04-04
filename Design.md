@@ -13,6 +13,8 @@ comment:  Dies ist das OER Projekt
 
 ## Download
 
+Das Git-Hub Repository zu diesem Kurs finden Sie <b>[hier](test.pdf)</b>.
+
 ## Abbildungsverzeichnis
 
 ## Literaturverzeichnis
