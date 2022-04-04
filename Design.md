@@ -15,11 +15,6 @@ comment:  Dies ist das OER Projekt
 
 Das Git-Hub Repository zu diesem Kurs finden Sie <b>[hier](test.pdf)</b>.
 
-<object data="test.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="test.pdf">
-    </embed>
-</object>
-
 ## Abbildungsverzeichnis
 
 ## Literaturverzeichnis
